@@ -1,10 +1,9 @@
 # Reticle Star Atlas
-**The latest version**: https://github.com/Peteworden/reticle/releases/tag/v1.0.0
+**The latest version**: https://github.com/Peteworden/reticle/releases/tag/v1.0.2
 
 reticle-star-atlas-installer-v*.*.*.zipをダウンロードして解凍してezeファイルを実行してください。
 
-警告が出ますが無視して大丈夫です（そう言われても無視しないぐらいのリテラシーを持つのも大事）。
-Windows Defenderで脅威がないことを確認済です。
+Windows Defenderで脅威がないことを確認済ですが、警告が出るので私と直接会う人は直接渡します。
 
 [私の星図](https://peteworden.github.io/Soleil/chart.html)をデスクトップアプリにしてみました。
 ChatGPTと数時間お話するだけでこれが作れるなんてChatGPTすごいですね。
@@ -24,5 +23,6 @@ Windowsでしか動作確認していません。
 ### Solar System
 - **Approximate Positions of the Planets**: https://ssd.jpl.nasa.gov/planets/approx_pos.html
 - **Small-Body Database Lookup**: https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html
+- **Computing planetary positions - a tutorial with worked examples**: https://stjarnhimlen.se/comp/tutorial.html
 ### Constellations
 - **Astro Commons**: http://astro.starfree.jp/commons/ (shut down on March 31, 2025)
